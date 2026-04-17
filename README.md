@@ -48,10 +48,6 @@ The program will prompt you to insert a password and then output the password st
 ## Contributors
 
 - Shihab Muhtasim
+- Tasnia Jannat Ayesha
 
-## License
 
-
-For any questions or feedback, feel free to contact [shihabmuhtasim@gmail.com].
-
-Happy coding!
